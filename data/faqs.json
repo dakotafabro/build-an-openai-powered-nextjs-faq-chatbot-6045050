@@ -1,0 +1,29 @@
+{
+  "faqs": [
+    {
+      "id": "intro-1",
+      "question": "What are we building in this course?",
+      "answer": "You\u2019re building an OpenAI-powered FAQ chatbot with Next.js, RTK Query, and tests."
+    },
+    {
+      "id": "setup-1",
+      "question": "How do I run the project locally?",
+      "answer": "Install deps, add your .env.local with OPENAI_API_KEY when needed, then run `npm run dev`."
+    },
+    {
+      "id": "ai-1",
+      "question": "Where do AI responses come from?",
+      "answer": "From the /api/ask route integrating with OpenAI or a mock fallback (next chapter)."
+    },
+    {
+      "id": "testing-1",
+      "question": "Do we have tests?",
+      "answer": "Yes. Jest for unit tests and Playwright for E2E in later chapters."
+    },
+    {
+      "id": "deploy-1",
+      "question": "How do I deploy this app?",
+      "answer": "Use Vercel. Set OPENAI_API_KEY in project settings, then deploy."
+    }
+  ]
+}
