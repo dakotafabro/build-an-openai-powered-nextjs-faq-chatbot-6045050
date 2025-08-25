@@ -1,6 +1,3 @@
-/**
- * Dakota: I like to keep quick notes as I wireframe. Nothing fancy yet.
- */
 export default function DocsPage() {
   return (
     <main className="panel">

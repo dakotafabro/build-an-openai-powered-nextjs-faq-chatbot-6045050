@@ -1,7 +1,7 @@
 /**
- * Dakota: Keeping config minimal for the wireframing step.
+ * Keeping config minimal for the wireframing step.
  */
 const nextConfig = {
-  reactStrictMode: true
+  reactStrictMode: true,
 };
 export default nextConfig;

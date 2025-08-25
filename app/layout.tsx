@@ -1,15 +1,19 @@
 import "./globals.css";
 
 /**
- * Dakota: For 02-02, I keep layout lean so the focus is on wireframing the UI.
+ * Keep layout lean so the focus is on wireframing the UI.
  * We'll introduce Redux/RTK Query later when we wire data.
  */
 export const metadata = {
   title: "AI FAQ ChatBot — Wireframing",
-  description: "Wireframing & designing the UI"
+  description: "Wireframing & designing the UI",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="en">
       <body>
