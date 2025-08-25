@@ -1,0 +1,1 @@
+export default function DocsPage(){return(<main className="panel"><h1>UX & Accessibility Notes</h1><ul><li>Skip link to main content</li><li>Explicit labels and aria attributes on inputs</li><li>Polite live regions for chat updates</li><li>Disabled send button when input is empty</li></ul></main>);}
