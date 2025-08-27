@@ -1,4 +1,4 @@
-// File: /Users/dakotafabro/Desktop/dakotafabrodev/2025/nextjs-faq-chatbot/app/page.tsx
+// File: /workspaces/build-an-openai-powered-nextjs-faq-chatbot-6045050/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
